@@ -1,0 +1,31 @@
+<style>
+        header{
+            background-color: gray;
+            height: 100px;
+        }
+        nav{
+            background-color: black;
+            height: 50px;
+        }
+        footer{
+            background-color: grey;
+            height: 50px;
+        }
+        main{
+            background-color: lightgrey;
+            height: 50px;
+        }
+        aside{
+            width: 20px;
+            float: left;
+            height: 400px;
+            background-color: burlywood;
+        }
+        section{
+            width: 80px;
+            float: right;
+            height: 400px;
+            background-color: white;
+        }
+
+    </style>
